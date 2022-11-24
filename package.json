@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "testcafe": "^2.1.0",
+    "testcafe-reporter-html": "^1.4.6"
+  },
+  "scripts": {
+    "test": "testcafe chrome pageObjectModel/test/*.js --skip-js-errors  --reporter html:Report/htmlReport/file.html"
+  }
+}

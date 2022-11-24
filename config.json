@@ -1,0 +1,4 @@
+{
+    "loginUrl": "http://the-internet.herokuapp.com/login",
+    "homeUrl": "http://the-internet.herokuapp.com/secure"
+}
