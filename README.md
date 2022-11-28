@@ -3,6 +3,3 @@
 
 ## for report generator use below command:
 `npm i testcafe-reporter-html`
-
-## Running the script 
-`npm run test`
